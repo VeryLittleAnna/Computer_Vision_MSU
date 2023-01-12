@@ -1,2 +1,2 @@
 # Computer_Vision_MSU
-MSU 5 term course of Computer Vision 
+5 семестр, курс "Методы обработки и распознавания изображений" (А.Конушин, А.Стоцкий, В.Шахуро, MediaLab) на ВМК МГУ
